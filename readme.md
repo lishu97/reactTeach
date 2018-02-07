@@ -1,4 +1,5 @@
-# reactTeach(tic-tac-toe)
+# reactTeach
+
 ### 介绍
 参考[react官方中文入门教程](https://doc.react-china.org/tutorial/tutorial.html)，完成一个井字棋游戏，点击[这里](https://codepen.io/gaearon/pen/gWWZgR)查看效果
 ### 目的
